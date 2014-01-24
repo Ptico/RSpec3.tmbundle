@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>andrey@aejis.eu</string>
+	<key>contactName</key>
+	<string>Andrey Savchenko</string>
+	<key>description</key>
+	<string>New shiny bundle for X.</string>
+	<key>name</key>
+	<string>RSpec3</string>
+	<key>uuid</key>
+	<string>70DDAD89-1CD8-430C-9C9C-8271516270C9</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>3439C5B4-9996-4869-AD46-8A530DEFFA41</string>
+			<string>4570B9F1-AB00-420F-ACD6-784C8A0BC150</string>
+			<string>9C160D7F-CB78-43C9-A04A-8967E232D16F</string>
+			<string>541F352E-C0CE-4792-9B61-05FC650336B6</string>
+			<string>CBBD1301-76DE-4DBB-A0C6-CD78BC626867</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>4570B9F1-AB00-420F-ACD6-784C8A0BC150</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>74573B16-9C3A-4763-89BC-A9B9D8F5DDBF</string>
+					<string>7BA1BA4B-E935-4975-BDCA-C154A19038C5</string>
+					<string>------------------------------------</string>
+					<string>A0483F4E-2C66-4C99-A71F-746A72A37328</string>
+					<string>AE100B28-735C-4F4D-AFEF-89B3A071036B</string>
+					<string>------------------------------------</string>
+					<string>E2EB0810-91C0-49FA-B295-10D7C8FF3717</string>
+					<string>0C2BC66C-E08B-4AB0-B557-6AD42F5A260A</string>
+					<string>1C884FDD-DCE0-4107-B330-5D83CD81C224</string>
+					<string>------------------------------------</string>
+					<string>9C5740A9-FAE0-4283-BC49-F4D454418F1F</string>
+				</array>
+				<key>name</key>
+				<string>Setup</string>
+			</dict>
+			<key>9C160D7F-CB78-43C9-A04A-8967E232D16F</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>D9FFEF7F-698E-4A18-BC58-59F4012B2C3F</string>
+					<string>402A1811-55F0-47B9-B443-64DF5FA0E404</string>
+					<string>4E447E3F-9A59-4270-A014-CB179D736159</string>
+					<string>EEFFD51A-BF81-42BA-B43B-DE398C056870</string>
+					<string>773184AA-A1C3-47F2-9C4B-A16CD9A67E7C</string>
+					<string>------------------------------------</string>
+					<string>A101A7C5-2BD7-4E12-BCF3-8BABFA28672A</string>
+					<string>E984633A-AB04-49B0-B9AD-B3CC24A240DC</string>
+				</array>
+				<key>name</key>
+				<string>Example group</string>
+			</dict>
+			<key>541F352E-C0CE-4792-9B61-05FC650336B6</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>78B9F82A-2F6D-4702-963B-75AC09136C2E</string>
+					<string>F33542C3-AE97-4878-92EA-D12FE890872E</string>
+					<string>0F2D9714-7933-44BF-856F-92BF49C1BC10</string>
+					<string>------------------------------------</string>
+					<string>A064FE6A-4C72-42C4-B1D8-E1CF8E10F3A2</string>
+					<string>7C8EDF58-39DE-45AB-807E-522FB91ED6D4</string>
+					<string>0A20F021-E1BD-4FE1-AB1F-CB22C8F47C39</string>
+					<string>B86599E0-16AD-46D8-A49A-6377137B36A4</string>
+				</array>
+				<key>name</key>
+				<string>Shared examples</string>
+			</dict>
+			<key>CBBD1301-76DE-4DBB-A0C6-CD78BC626867</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BB101FDF-0683-4BB2-97E0-1BC5C96AF48F</string>
+					<string>BC5F980C-D9A5-4F9F-BA95-10586A34A748</string>
+					<string>F1C7F8AA-0005-4F69-918E-79466C50EEE5</string>
+					<string>465A9DC7-5881-4266-BC5C-67D598F02F88</string>
+					<string>1206BECF-C031-43C2-9FB5-C97C9C76CD8E</string>
+				</array>
+				<key>name</key>
+				<string>Expectations</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
