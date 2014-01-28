@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>expect(${1:target}).${2|to,to_not|} ${3|be_,be_nil,be_truthy,be_falsy|}</string>
+	<string>a_value ${1|&gt;,&lt;,&lt;=,&gt;=,==|} ${2:val}</string>
 	<key>name</key>
-	<string>expect be_</string>
+	<string>a_value</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>exb</string>
+	<string>a_val</string>
 	<key>uuid</key>
-	<string>1206BECF-C031-43C2-9FB5-C97C9C76CD8E</string>
+	<string>DBC46552-8FCF-4A9F-8FA4-0CB7F05D8F2F</string>
 </dict>
 </plist>
